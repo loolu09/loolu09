@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Luísa de Matos
+## 👩🏻‍💻 Oii, eu sou a Luísa :)
 
 Me chamo Luísa de Matos, tenho 20 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFMS. Sou apaixonada por tecnologia e estou sempre em busca de novos desafios! 
 
