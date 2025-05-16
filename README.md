@@ -30,6 +30,15 @@ Me chamo Luísa de Matos, tenho 20 anos e atualmente estou cursando Análise e D
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
 
 <br/>
 <br/>
@@ -49,8 +58,8 @@ Me chamo Luísa de Matos, tenho 20 anos e atualmente estou cursando Análise e D
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loolu09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loolu09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
