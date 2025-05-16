@@ -58,7 +58,7 @@ Me chamo Luísa de Matos, tenho 20 anos e atualmente estou cursando Análise e D
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=loolu09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
