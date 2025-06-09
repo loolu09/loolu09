@@ -53,13 +53,13 @@ Me chamo Luísa de Matos, tenho 20 anos e atualmente estou cursando Análise e D
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=loolu09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=luisadmatos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
       align="left" 
       alt="GitHub Stats" 
       height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=loolu09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisadmatos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
